@@ -15,6 +15,7 @@ public class Main {
 
         Vehicle v1=new Car(50);
         v1.displaySpeed();
+        System.out.println("");
 
     }
 }
