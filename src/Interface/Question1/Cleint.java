@@ -1,4 +1,4 @@
-package Interface.Question;
+package Interface.Question1;
 
 public class Cleint {
     public static void main(String[] args) {
