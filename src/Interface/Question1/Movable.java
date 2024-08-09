@@ -1,4 +1,4 @@
-package Interface.Question;
+package Interface.Question1;
 
 public interface Movable {
 
